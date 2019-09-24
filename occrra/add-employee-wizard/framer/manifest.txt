@@ -68,7 +68,7 @@ node_modules/@framer/edoardo.web-ui-kit/code/canvas.tsx
 node_modules/@framer/edoardo.web-ui-kit/build/index.js
 node_modules/@framer/edoardo.web-ui-kit/README.md
 design/images/vnvrc0grHfSabd8i3q6tvDac0HA.png
-design/images/t3iwQTzFOpwbTjhONmAtRoEE4.png
+design/images/oaYD82lT4WwHPOkFzJqn8bo7Xc.png
 design/images/3ghhcYXv2mWQ8lkhZFLeGzgKYsk.png
 design/images/3AnN5kZ2RoS7DTCrgxTSGjtkyQ.png
 build/vendors.js
